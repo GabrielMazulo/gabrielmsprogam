@@ -6,7 +6,7 @@
 - Compartilho alguns projetos aqui
 - Proucuro novos desafios
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazulo&layout=dart)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmsprogram&layout=dart)
 
 ---
 
